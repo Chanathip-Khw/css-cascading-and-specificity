@@ -1,6 +1,4 @@
-/* Start coding here  */
 .ex-btn {
-  cursor: pointer;
   color: black;
   background-color: #eee;
   border: 2px solid #aaa;
@@ -23,5 +21,4 @@ button{
   border-radius: 5px;
   font-size: 17px;
   cursor: pointer;
-
 }
